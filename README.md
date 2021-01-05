@@ -31,12 +31,8 @@ Aprenda a criar um aplicativo semelhante ao Mercado Livre baseando-se em React N
 
 - [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [React Native](https://reactnative.dev/docs/getting-started)
-- [Eslint](https://github.com/eslint/eslint)
-- [jason-server](https://github.com/typicode/json-server)
 - [@react-navigation](https://reactnavigation.org/docs/getting-started/)
-- [styled-components](https://styled-components.com/docs)
-- [axios](https://github.com/axios/axios)
-- [prop-types](https://www.npmjs.com/package/prop-types)
+- [Firebase](https://firebase.google.com/docs)
 
 <!--License session-->
 <h3>📝 Licença</h3>
