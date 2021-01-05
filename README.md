@@ -24,7 +24,7 @@ Curso do Bootcamp React Native Mobile Developer da [Digital Innovation One](http
 
 Aprenda a criar um aplicativo semelhante ao Mercado Livre baseando-se em React Native e Firebase, desenvolvendo do zero a estrutura de front-end com React e toda a interface utilizando Autentications, Cloud Storage e Cloud Firestore. Dessa forma nosso app estará todo integrado em uma nuvem e acessível de qualquer lugar.
 
-<p align="center"><img src="./src/assets/readme/projeto.png" title="Clone do Instagram - DIO"></p>
+<!-- <p align="center"><img src="./src/assets/readme/projeto.png" title="Clone do Instagram - DIO"></p> -->
 
 
 <h3>👨‍💻 Tecnologias utilizadas</h3>
